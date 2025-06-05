@@ -1,16 +1,15 @@
-# SpaceBlocks
-SpaceBlocks Project's code (Assets not included)
+# 2D blocks space shooter - SpaceBlocks Project
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
+## Introduction
 
-## Description
+[![SpaceBlocks Game](https://img.youtube.com/vi/z-Wu6rCiCIY/0.jpg)](https://www.youtube.com/watch?v=z-Wu6rCiCIY)
 
-You are a delivery ship and must deliver your package on time. But beware of the obstacles on your way !
+You are a delivery ship and must deliver your package on time. But beware of the obstacles on your way!
+Mechanics:
+- Build your ship (blocks)
+- Place your components (weapons, engine…)
+- Collect resources and defeat the enemies
 
-More info [here](https://victorportfolio.eu/portfolio/spaceblock)
+## Credits
 
-[![Watch the video](https://images.squarespace-cdn.com/content/v1/6192c075ca1cf524b3d3834f/1676545589361-UA7TQBOC3TLHGYM1NXQN/SpaceBlockPicture.png)](https://youtu.be/Ox8UKBfAXmU)
-
-## Status
-
-Prototype
+- RainbowArt: [Clean Flat Icons](https://assetstore.unity.com/packages/2d/gui/icons/clean-flat-icons-98117)
