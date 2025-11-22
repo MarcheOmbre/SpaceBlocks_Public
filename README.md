@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[![SpaceBlocks Game](https://img.youtube.com/vi/z-Wu6rCiCIY/0.jpg)](https://www.youtube.com/watch?v=z-Wu6rCiCIY)
+[![SpaceBlocks Game](SpaceBlock_VideoPict.png)](https://www.youtube.com/watch?v=z-Wu6rCiCIY)
 
 You are a delivery ship and must deliver your package on time. But beware of the obstacles on your way!
 Mechanics:
